@@ -80,8 +80,7 @@ Final Emotion Output
 
 ## 📂 Project Structure
 
-Emotion_AI_Project/
-│
+Emotion_AI_Project
 ├── emotion_detector_stable_v3.py   # Main AI system
 ├── emotion_model.h5                # Trained CNN model
 ├── haarcascade_frontalface_default.xml
