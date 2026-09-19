@@ -209,7 +209,7 @@ Built a real-time facial emotion recognition system using OpenCV and CNN trained
 
 ## ❤️ Author
 
-**Vaibhav Singh**
+**Ayushman Chourasiya**
 Data Scientist | NLP Engineer | AI Developer
 
 
