@@ -84,7 +84,7 @@ while True:
     # =========================
     # Show Window
     # =========================
-    cv2.imshow("🧠 Emotion Detection AI | Vaibhav Singh Project", frame)
+    cv2.imshow("🧠 Emotion Detection AI | Ayushman Chourasiya Project", frame)
 
     # Exit
     if cv2.waitKey(1) & 0xFF == ord('q'):
